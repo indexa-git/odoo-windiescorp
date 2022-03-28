@@ -2,3 +2,7 @@
 	path = indexa-git/website
 	url = git@github.com:indexa-git/website.git
 	branch = 13.0
+[submodule "indexa-git/partner-contact"]
+	path = indexa-git/partner-contact
+	url = git@github.com:indexa-git/partner-contact.git
+	branch = 13.0

@@ -34,3 +34,7 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 13.0
+[submodule "camptocamp/odoo-cloud-platform"]
+	path = camptocamp/odoo-cloud-platform
+	url = git@github.com:camptocamp/odoo-cloud-platform.git
+	branch = 13.0
